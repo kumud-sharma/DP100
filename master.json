@@ -1,0 +1,75 @@
+[{
+  "Name": "DP-100: Designing and Implementing a Data Science Solution on Azure",
+  "Language": "English",
+  "BaseURL": "https://github.com/MicrosoftLearning/mslearn-dp100",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/01-create-a-workspace.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/02-automated-ml.md",   
+        "Order": 2
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/03-azureml-designer.md",
+      "Order": 3
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/04-run-experiments.md",
+      "Order": 4
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/05-train-models.md",
+      "Order": 5
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/06-work-with-data.md",
+      "Order": 6
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/07-work-with-compute.md",
+      "Order": 7
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/08-create-a-pipeline.md",   
+        "Order": 8
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/09-create-realtime-service.md",
+      "Order": 9
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/10-create-batch-service.md",
+      "Order": 10
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/11-tune-hyperparameters.md",   
+        "Order": 11
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/12-use-automl.md",
+      "Order": 12
+    },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/13-explore-differential-privacy.md",
+      "Order": 13
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/14-interpret-models.md",   
+        "Order": 14
+    },
+     {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/15-detect-unfairness.md",   
+        "Order": 15
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/16-monitor-a-model.md",   
+        "Order": 16
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-dp100/main/instructions/17-monitor-data-drift.md",
+      "Order": 17
+    }
+     ]
+}]
